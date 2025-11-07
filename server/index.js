@@ -12,6 +12,7 @@ app.use(cors(
             "http://localhost:5174",
             "http://localhost:3000",
             // add production url 
+            "http://72.61.6.58:5173"
         ],
         credentials: true , 
     
